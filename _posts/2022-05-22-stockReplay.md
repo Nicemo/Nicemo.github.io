@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 盘前总结
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: 五月中旬股票复盘
+subtitle: 暴富就在六月
 tags: [搞钱]
 ---
-
-
 
 ### 上证指数
 
